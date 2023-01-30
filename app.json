@@ -1,11 +1,11 @@
 {
     "name": "PROFESSOR-BOT",
     "description": "the telegram Autofilter bot",
-    "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
+    "logo": "https://te.legra.ph/file/6ff9762eea940a850f4d6.jpg",
     "stack": "container",
     "keywords": ["telegram", "auto-filter"],
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://telegram.me/MYFLiiX",
+    "repository": "https://telegram.me/MYFLiiX",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -65,7 +65,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "MYFLiiX_2",
             "required": false
         },
         "IMDB": {
